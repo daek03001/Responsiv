@@ -9,23 +9,26 @@
 }
 
 header { 
-    background-color: Indigo;
+    background-color: red;
 	  
 }
 
 
 main { 
-    background-color: red;
+    background-color: blue;
 	 
 
 }
 
 footer {
-	background-color: yellow;
+	background-color: green;
 
 }
 
 nav {
-	background-color: black;
+	background-color: yellow;
 	
 }
+
+
+
